@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755119506 source:c:\b4 graph\home\main.cpp
+	<windows.h>
+	<GL/glut.h>
+

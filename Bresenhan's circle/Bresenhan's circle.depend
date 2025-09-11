@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756932749 source:c:\bb4-149\bresenhan's circle\main.cpp
+	<GL/glut.h>
+	<cmath>
+

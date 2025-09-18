@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758139728 source:c:\bb4-149\bat_&_ball(dda line & circle)\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+

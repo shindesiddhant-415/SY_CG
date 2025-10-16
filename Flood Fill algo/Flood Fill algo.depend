@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1760562323 source:c:\bb4-149\flood fill algo\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<cmath>
+

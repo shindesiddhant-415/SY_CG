@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1761767932 source:c:\bb4-149\flappy bird\main.cpp
+	<GL/freeglut.h>
+	<cmath>
+	<vector>
+	<string>
+	<sstream>
+

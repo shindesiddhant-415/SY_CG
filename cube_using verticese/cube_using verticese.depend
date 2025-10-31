@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1761769482 source:c:\bb4-149\cube_using verticese\main.cpp
+	<GL/glut.h>
+

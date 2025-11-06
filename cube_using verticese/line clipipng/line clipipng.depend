@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762406855 source:c:\bb4-149\line clipipng\main.cpp
+	<GL/glut.h>
+	<iostream>
+
